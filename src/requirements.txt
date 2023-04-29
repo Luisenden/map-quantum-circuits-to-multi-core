@@ -1,0 +1,7 @@
+dwave_neal==0.5.9
+matplotlib==3.5.2
+networkx==2.6.3
+numpy==1.22.2
+pyqubo==1.2.0
+qiskit==0.42.1
+qiskit_ibmq_provider==0.19.2
