@@ -1,6 +1,6 @@
 # map-quantum-circuits-to-multi-core
 
-This project reads quantum circuits (.qasm files, Qiskit lib circuits) and maps them to the layout of a quantum multi-core system. The mapping is based on a quadratic binary unconstrained optimization (QUBO) formulation. 
+This project reads quantum circuits (.qasm files, [Qiskit Library circuits](https://qiskit.org/documentation/apidoc/circuit_library.html#module-qiskit.circuit.library) and maps them to the layout of a quantum multi-core system. The mapping is based on a quadratic binary unconstrained optimization (QUBO) formulation. 
 
 # How to get started
 Make sure you have installed ``Python 3.8``or higher. Then run the following command
