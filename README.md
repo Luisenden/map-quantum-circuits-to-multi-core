@@ -2,7 +2,7 @@
 
 This project reads quantum circuits (.qasm files, [Qiskit Library circuits](https://qiskit.org/documentation/apidoc/circuit_library.html#module-qiskit.circuit.library)) and maps them to the layout of a quantum multi-core system. The mapping is based on a quadratic binary unconstrained optimization (QUBO) formulation. 
 
-If you use this code please cite:
+When using this code, please cite:
 
 @article{bandic2023mapping,
   title={Mapping quantum circuits to modular architectures with QUBO},
