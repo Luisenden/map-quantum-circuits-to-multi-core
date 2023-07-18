@@ -12,13 +12,14 @@ When using this code, please cite:
 }
 
 # How to get started
-Make sure you have installed ``Python 3.8``or higher. Navigate to the ``src`` folder, then run the following command in your virtual environment
+Make sure you have installed ``Python 3.8``or higher; activate your virtual environment and run the following command
 ```console
 pip install -r requirements.txt
 ````
-Get started with the jupyter notebook `playground.ipynb` which contains simple examples to build your first mappings. 
+We recommend to get started with the jupyter notebook `playground.ipynb` which contains simple examples to build your first mappings. 
 Also, have a look into `experiment.py`, which you can use to reproduce our results.
 
 ```
-python3 src/experiment.py test-circuit ../test
+python src/experiment.py test-circuit ../test
 ```
+Executing this command will map a small quantum program (test-circuit) to a 3x2 core system (similar to the toy model in the paper) and store the mapping results in the output directory ``test``.

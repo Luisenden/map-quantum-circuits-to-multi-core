@@ -1,4 +1,6 @@
 # general modules
+import warnings
+warnings.filterwarnings("ignore")
 import os, csv
 import sys
 from time import time
