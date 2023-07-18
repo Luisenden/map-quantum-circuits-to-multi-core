@@ -6,7 +6,7 @@ When using this code, please cite:
 
 @article{bandic2023mapping,
   title={Mapping quantum circuits to modular architectures with QUBO},
-  author={Bandic, Medina and Prielinger, Luise and N{\"u}{\ss}lein, Jonas and Ovide, Gayane and Alarcon, Eduard and Almudever, Carmen G and Feld, Sebastian and others},
+  author={Bandic, Medina and Prielinger, Luise and N{\"u}{\ss}lein, Jonas and Vardoyan, Gayane and Almudever, Carmen G and Feld, Sebastian others},
   journal={arXiv preprint arXiv:2305.06687},
   year={2023}
 }
