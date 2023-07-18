@@ -19,7 +19,7 @@ pip install -r requirements.txt
 We recommend to get started with the jupyter notebook `playground.ipynb` which contains simple examples to build your first mappings. 
 Also, have a look into `experiment.py`, which you can use to reproduce our results.
 
-```
+```console
 python src/experiment.py test-circuit ../test
 ```
 Executing this command will map a small quantum program (test-circuit) to a 3x2 core system (similar to the toy model in the paper) and store the mapping results in the output directory ``test``.
