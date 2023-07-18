@@ -12,7 +12,7 @@ When using this code, please cite:
 }
 
 # How to get started
-Make sure you have installed ``Python 3.8``or higher. Then run the following command in your virtual environment
+Make sure you have installed ``Python 3.8``or higher. Navigate to the ``src`` folder, then run the following command in your virtual environment
 ```console
 pip install -r requirements.txt
 ````
